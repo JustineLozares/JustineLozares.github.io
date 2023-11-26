@@ -89,7 +89,7 @@
             <p>Location: Binan City Senior High School-San Antonio Campus</p>
             <p>Description: A Feast for Happy Tummies! Chop Suey, a colorful medley of veggies and flavors, paired perfectly with those crispy, golden Chicken Fingers. It wasn’t just a meal; it was a symphony of taste and satisfaction that left smiles on every face.</p>
             <div class="video-container">
-                <iframe src="https://www.facebook.com/TrimexCollegesHappyKids/videos/851655926642123" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/shorts/aZzEGbdCasI" allowfullscreen></iframe>
             </div>
         </div>
 
@@ -99,7 +99,7 @@
             <p>Location:  Binan City Senior High School-San Antonio Campus</p>
             <p>Description: Together, we can make an even bigger impact! Whether it's through a donation, your time as a volunteer, or simply sharing awareness about this program, YOU can help us ensure no child goes to bed hungry.</p>
             <div class="video-container">
-                <iframe src="https://www.facebook.com/reel/220127191106742" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/shorts/NuJe7cYO9RI></iframe>
             </div>
         </div>
     </section>
