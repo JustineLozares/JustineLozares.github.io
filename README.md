@@ -76,10 +76,10 @@
 
         <div class="event-card">
             <h3>Event Name 1</h3>
-            <p>Date: [January 18, 2022]</p>
-            <p>Location: [Binan City Senior High School-San Antonio Campus]</p>
-            <p>Description: [A Feast for Happy Tummies 
-            Chop Suey, a colorful medley of veggies and flavors, paired perfectly with those crispy, golden Chicken Fingers. It wasn’t just a meal; it was a symphony of taste and satisfaction that left smiles on every face.]</p>
+            <p>Date: January 18, 2022</p>
+            <p>Location: Binan City Senior High School-San Antonio Campus</p>
+            <p>Description: A Feast for Happy Tummies 
+            Chop Suey, a colorful medley of veggies and flavors, paired perfectly with those crispy, golden Chicken Fingers. It wasn’t just a meal; it was a symphony of taste and satisfaction that left smiles on every face.</p>
         </div>
 
         <div class="event-card">
