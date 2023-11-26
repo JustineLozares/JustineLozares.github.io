@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -33,7 +36,8 @@
             padding: 2em;
         }
 
-        .event-card {
+        .event-card,
+        .blog-post {
             background-color: white;
             border: 1px solid #ddd;
             border-radius: 8px;
@@ -41,12 +45,10 @@
             margin-bottom: 1em;
         }
 
-        .blog-post {
-            background-color: white;
-            border: 1px solid #ddd;
+        video {
+            width: 100%;
+            height: auto;
             border-radius: 8px;
-            padding: 1em;
-            margin-bottom: 1em;
         }
 
         footer {
@@ -63,7 +65,7 @@
 
 <body>
     <header>
-        <h1>Events and Blogs</h1>
+        <h1>Your Events and Blogs</h1>
     </header>
 
     <nav>
@@ -76,10 +78,13 @@
 
         <div class="event-card">
             <h3>Event Name 1</h3>
-            <p>Date: January 18, 2022</p>
-            <p>Location: Binan City Senior High School-San Antonio Campus</p>
-            <p>Description: A Feast for Happy Tummies 
-            Chop Suey, a colorful medley of veggies and flavors, paired perfectly with those crispy, golden Chicken Fingers. It wasn’t just a meal; it was a symphony of taste and satisfaction that left smiles on every face.</p>
+            <p>Date: [Event Date]</p>
+            <p>Location: [Event Location]</p>
+            <p>Description: [Event Description]</p>
+            <video controls>
+                <source src="path/to/event_video_1.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
         </div>
 
         <div class="event-card">
@@ -87,6 +92,10 @@
             <p>Date: [Event Date]</p>
             <p>Location: [Event Location]</p>
             <p>Description: [Event Description]</p>
+            <video controls>
+                <source src="path/to/event_video_2.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
         </div>
     </section>
 
