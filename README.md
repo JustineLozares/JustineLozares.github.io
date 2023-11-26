@@ -42,10 +42,20 @@
             margin-bottom: 1em;
         }
 
-        video {
-            width: 100%;
-            height: auto;
+        .video-container {
+            position: relative;
+            padding-bottom: 56.25%;
+            overflow: hidden;
             border-radius: 8px;
+        }
+
+        iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: 0;
         }
 
         footer {
@@ -75,24 +85,22 @@
 
         <div class="event-card">
             <h3>Trimex Colleges Happy Kids</h3>
-            <p>Date: November 22, 2023 </p>
+            <p>Date: November 22, 2023</p>
             <p>Location: Binan City Senior High School-San Antonio Campus</p>
             <p>Description: A Feast for Happy Tummies! Chop Suey, a colorful medley of veggies and flavors, paired perfectly with those crispy, golden Chicken Fingers. It wasn’t just a meal; it was a symphony of taste and satisfaction that left smiles on every face.</p>
-            <video controls>
-                <source src="https://www.facebook.com/reel/220127191106742" type="video/mp4">
-                Your browser does not support the video tag.
-            </video>
+            <div class="video-container">
+                <iframe src="https://www.facebook.com/TrimexCollegesHappyKids/videos/851655926642123" allowfullscreen></iframe>
+            </div>
         </div>
 
         <div class="event-card">
-            <h3>Event Name 2</h3>
-            <p>Date: [Event Date]</p>
-            <p>Location: [Event Location]</p>
-            <p>Description: [Event Description]</p>
-            <video controls>
-                <source src="path/to/event_video_2.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-            </video>
+            <h3>Trimex Colleges Happy Kids</h3>
+            <p>Date: November 23, 2023</p>
+            <p>Location:  Binan City Senior High School-San Antonio Campus</p>
+            <p>Description: Together, we can make an even bigger impact! Whether it's through a donation, your time as a volunteer, or simply sharing awareness about this program, YOU can help us ensure no child goes to bed hungry.</p>
+            <div class="video-container">
+                <iframe src="https://www.facebook.com/reel/220127191106742" allowfullscreen></iframe>
+            </div>
         </div>
     </section>
 
