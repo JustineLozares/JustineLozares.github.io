@@ -62,8 +62,8 @@
         </div>
 
         <div class="faq">
-            <p class="question">Q:  Can I modify or cancel my order after it's been placed?</p>
-            <p>A: Unfortunately, once an order is placed, it cannot be modified or canceled. Please double-check your order before confirming.</p>
+            <p class="question">Q:  Can I modify or cancel my donation after it's been placed?</p>
+            <p>A: Unfortunately, once a donation is placed, it cannot be modified or canceled. Please double-check your order before confirming.</p>
         </div>
         
         <div class="faq">
