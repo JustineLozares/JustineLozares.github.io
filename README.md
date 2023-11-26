@@ -105,7 +105,7 @@
     </section>
 
     <footer>
-        &copy; 2023 Your Company
+        &copy; 2023 Your FAQs, Trimex Colleges Happy Kids
     </footer>
 </body>
 
