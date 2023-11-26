@@ -81,7 +81,7 @@
     </nav>
 
     <section id="events">
-        <h2>Upcoming Events</h2>
+        <h2>Events</h2>
 
         <div class="event-card">
             <h3>Trimex Colleges Happy Kids</h3>
@@ -99,7 +99,7 @@
             <p>Location:  Binan City Senior High School-San Antonio Campus</p>
             <p>Description: Together, we can make an even bigger impact! Whether it's through a donation, your time as a volunteer, or simply sharing awareness about this program, YOU can help us ensure no child goes to bed hungry.</p>
             <div class="video-container">
-                <iframe src="https://www.youtube.com/shorts/NuJe7cYO9RI></iframe>
+                <iframe src="https://www.youtube.com/shorts/NuJe7cYO9RI" allowfullscreen></iframe>
             </div>
         </div>
     </section>
@@ -108,24 +108,24 @@
         <h2>Latest Blog Posts</h2>
 
         <div class="blog-post">
-            <h3>Blog Post Title 1</h3>
-            <p>Published on: [Publication Date]</p>
-            <p>Author: [Author Name]</p>
-            <p>Excerpt: [Brief Blog Post Excerpt]</p>
+            <h3>Day 1</h3>
+            <p>Published on: November 23, 2023</p>
+            <p>Author: Ricky Cruz</p>
+            <p>Excerpt: Did you know that millions of children around the world suffer from malnutrition? Our feeding program is working to change that. In our latest blog post, we share the inspiring stories of families who have benefited from our program, and how we're making a difference in their lives. By providing nutritious meals to children in need, we're helping them grow and thrive. Read the full post now and learn how you can support our mission to end childhood hunger.</p>
             <a href="#">Read More</a>
         </div>
 
         <div class="blog-post">
-            <h3>Blog Post Title 2</h3>
-            <p>Published on: [Publication Date]</p>
-            <p>Author: [Author Name]</p>
-            <p>Excerpt: [Brief Blog Post Excerpt]</p>
+            <h3>Day 2</h3>
+            <p>Published on: November 23, 2023</p>
+            <p>Author: Ricky Cruz</p>
+            <p>Excerpt: Every child deserves access to healthy food, but unfortunately, that's not the reality for many families. At our feeding program, we're committed to changing that. In our latest blog post, we take a closer look at the effects of malnutrition on children and how our program is making a difference. From providing nutritious meals to education on healthy eating habits, we're empowering families to break the cycle of poverty and malnutrition. Read the full post now and join us in our mission to create a world where no child goes hungry.</p>
             <a href="#">Read More</a>
         </div>
     </section>
 
     <footer>
-        &copy; 2023 Your Events and Blogs
+        &copy; 2023 Your Events and Blogs, Trimex Colleges Happy Kids
     </footer>
 </body>
 
