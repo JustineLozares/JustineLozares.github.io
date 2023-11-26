@@ -87,7 +87,7 @@
             <h3>Trimex Colleges Happy Kids</h3>
             <p>Date: November 22, 2023</p>
             <p>Location: Binan City Senior High School-San Antonio Campus</p>
-            <p>Description: A Feast for Happy Tummies! Chop Suey, a colorful medley of veggies and flavors, paired perfectly with those crispy, golden Chicken Fingers. It wasn’t just a meal; it was a symphony of taste and satisfaction that left smiles on every face.</p>
+            <p>Description: A Feast for Happy Tummies! Chop Suey, a colorful medley of veggies and flavors, paired perfectly with those crispy, golden Chicken Fingers. It wasn’t just a meal, it was a symphony of taste and satisfaction that left smiles on every face.</p>
             <video controls>
                 <source src="D:\Downloads\1.mp4" type="video/mp4"> allowfullscreen></iframe>
                 Your browser does not support the video tag.
