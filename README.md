@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -77,12 +74,12 @@
         <h2>Upcoming Events</h2>
 
         <div class="event-card">
-            <h3>Event Name 1</h3>
-            <p>Date: [Event Date]</p>
-            <p>Location: [Event Location]</p>
-            <p>Description: [Event Description]</p>
+            <h3>Trimex Colleges Happy Kids</h3>
+            <p>Date: November 22, 2023 </p>
+            <p>Location: Binan City Senior High School-San Antonio Campus</p>
+            <p>Description: A Feast for Happy Tummies! Chop Suey, a colorful medley of veggies and flavors, paired perfectly with those crispy, golden Chicken Fingers. It wasn’t just a meal; it was a symphony of taste and satisfaction that left smiles on every face.</p>
             <video controls>
-                <source src="path/to/event_video_1.mp4" type="video/mp4">
+                <source src="https://www.facebook.com/reel/220127191106742" type="video/mp4">
                 Your browser does not support the video tag.
             </video>
         </div>
