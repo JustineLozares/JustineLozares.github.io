@@ -88,9 +88,10 @@
             <p>Date: November 22, 2023</p>
             <p>Location: Binan City Senior High School-San Antonio Campus</p>
             <p>Description: A Feast for Happy Tummies! Chop Suey, a colorful medley of veggies and flavors, paired perfectly with those crispy, golden Chicken Fingers. It wasn’t just a meal; it was a symphony of taste and satisfaction that left smiles on every face.</p>
-            <div class="video-container">
-                <iframe src="https://www.youtube.com/shorts/aZzEGbdCasI" allowfullscreen></iframe>
-            </div>
+            <video controls>
+                <source src="D:\Downloads\1.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
         </div>
 
         <div class="event-card">
@@ -98,9 +99,10 @@
             <p>Date: November 23, 2023</p>
             <p>Location:  Binan City Senior High School-San Antonio Campus</p>
             <p>Description: Together, we can make an even bigger impact! Whether it's through a donation, your time as a volunteer, or simply sharing awareness about this program, YOU can help us ensure no child goes to bed hungry.</p>
-            <div class="video-container">
-                <iframe src="https://www.youtube.com/shorts/NuJe7cYO9RI" allowfullscreen></iframe>
-            </div>
+            <video controls>
+                <source src="D:\Downloads\2.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
         </div>
     </section>
 
